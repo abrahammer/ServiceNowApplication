@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="change_request" label="Test Application Table" max_length="40" name="x_69414_test_appli_test_application_table" type="collection"/>
+</database>
